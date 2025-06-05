@@ -12,7 +12,7 @@ Welcome to the **Discrete Mathematics Guide** — your comprehensive, interview-
 
 ## 📚 Table of Contents
 
-| #  | Topic                                                                                          | YouTube Video Search (Java/General)                                         |
+| #  | Topic                                                                                          | YouTube Video Search                                         |
 |----|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 1  | [Introduction to Discrete Mathematics](01_Introduction_to_Discrete_Mathematics.md)             | [YouTube](https://www.youtube.com/results?search_query=introduction+to+discrete+mathematics)               |
 | 2  | [Sets, Relations, and Functions](02_Sets_Relations_Functions.md)                               | [YouTube](https://www.youtube.com/results?search_query=sets+relations+functions+discrete+mathematics)      |
