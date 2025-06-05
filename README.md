@@ -4,28 +4,36 @@ Welcome to the **Discrete Mathematics Guide** — your comprehensive, interview-
 
 ---
 
+## 📄 Quick Access
+
+- [**DM Short Notes (PDF)**](./DM%20Short%20Notes.pdf)
+
+---
+
 ## 📚 Table of Contents
 
-1. [Introduction to Discrete Mathematics](01_Introduction_to_Discrete_Mathematics.md)
-2. [Sets, Relations, and Functions](02_Sets_Relations_Functions.md)
-3. [Logic, Propositional Calculus, and Predicate Logic](03_Logic_Propositional_Predicate.md)
-4. [Proof Techniques: Induction and Contradiction](04_Proof_Techniques.md)
-5. [Combinatorics: Counting, Permutations, and Combinations](05_Combinatorics.md)
-6. [Recurrence Relations and Generating Functions](06_Recurrence_and_Generating_Functions.md)
-7. [Graphs and Graph Theory](07_Graphs_and_Graph_Theory.md)
-8. [Trees and Tree Algorithms](08_Trees_and_Tree_Algorithms.md)
-9. [Boolean Algebra and Applications](09_Boolean_Algebra_and_Applications.md)
-10. [Algebraic Structures: Groups, Rings, and Fields](10_Algebraic_Structures.md)
-11. [Discrete Probability](11_Discrete_Probability.md)
-12. [Interview Patterns, Practice, and Q&A](12_Interview_Patterns_Practice_QA.md)
+| #  | Topic                                                                                          | YouTube Video Search (Java/General)                                         |
+|----|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1  | [Introduction to Discrete Mathematics](01_Introduction_to_Discrete_Mathematics.md)             | [YouTube](https://www.youtube.com/results?search_query=introduction+to+discrete+mathematics)               |
+| 2  | [Sets, Relations, and Functions](02_Sets_Relations_Functions.md)                               | [YouTube](https://www.youtube.com/results?search_query=sets+relations+functions+discrete+mathematics)      |
+| 3  | [Logic, Propositional Calculus, and Predicate Logic](03_Logic_Propositional_Predicate.md)       | [YouTube](https://www.youtube.com/results?search_query=logic+propositional+predicate+discrete+mathematics) |
+| 4  | [Proof Techniques: Induction and Contradiction](04_Proof_Techniques.md)                        | [YouTube](https://www.youtube.com/results?search_query=proof+techniques+induction+contradiction+discrete+mathematics) |
+| 5  | [Combinatorics: Counting, Permutations, and Combinations](05_Combinatorics.md)                 | [YouTube](https://www.youtube.com/results?search_query=combinatorics+permutations+combinations+discrete+mathematics) |
+| 6  | [Recurrence Relations and Generating Functions](06_Recurrence_and_Generating_Functions.md)     | [YouTube](https://www.youtube.com/results?search_query=recurrence+relations+generating+functions+discrete+mathematics) |
+| 7  | [Graphs and Graph Theory](07_Graphs_and_Graph_Theory.md)                                       | [YouTube](https://www.youtube.com/results?search_query=graphs+graph+theory+discrete+mathematics)           |
+| 8  | [Trees and Tree Algorithms](08_Trees_and_Tree_Algorithms.md)                                   | [YouTube](https://www.youtube.com/results?search_query=trees+tree+algorithms+discrete+mathematics)         |
+| 9  | [Boolean Algebra and Applications](09_Boolean_Algebra_and_Applications.md)                     | [YouTube](https://www.youtube.com/results?search_query=boolean+algebra+discrete+mathematics)               |
+| 10 | [Algebraic Structures: Groups, Rings, and Fields](10_Algebraic_Structures.md)                  | [YouTube](https://www.youtube.com/results?search_query=groups+rings+fields+algebraic+structures+discrete+mathematics) |
+| 11 | [Discrete Probability](11_Discrete_Probability.md)                                              | [YouTube](https://www.youtube.com/results?search_query=discrete+probability+discrete+mathematics)          |
+| 12 | [Interview Patterns, Practice, and Q&A](12_Interview_Patterns_Practice_QA.md)                  | [YouTube](https://www.youtube.com/results?search_query=discrete+mathematics+interview+questions)           |
 
 ---
 
 ## 🚀 How to Use This Guide
 
-- **Learn sequentially:** Each section builds a foundation for the next. Progress from basics (sets, logic) to advanced topics (graphs, probability).
+- **Learn sequentially:** Each section builds a foundation for the next. Start with basics, then advance.
 - **Practice actively:** Attempt every exercise, draw diagrams, and write your own proofs.
-- **Quick revision:** Use for last-minute review before exams or interviews.
+- **Quick revision:** Perfect for last-minute review—use the [DM Short Notes (PDF)](./DM%20Short%20Notes.pdf) and video links.
 - **Explore references:** Every section ends with trusted reference links for deeper learning and practical examples.
 
 ---
